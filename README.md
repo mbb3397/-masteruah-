@@ -17,4 +17,4 @@ C:\Users\usuario\-masteruah->git commit 2.txt -m "commit del texto 2"
 C:\Users\usuario\-masteruah->git push --set-upstream origin v0.2
 C:\Users\usuario\-masteruah->git checkout main
 C:\Users\usuario\-masteruah->git merge v0.2
-C:\Users\usuario\-masteruah-> git push.
+C:\Users\usuario\-masteruah-> git push 
